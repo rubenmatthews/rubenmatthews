@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ruben
 
-<!--
-**rubenmatthews/rubenmatthews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Learning Python & AI  
+⚙️ Building my first Finance Tracker  
+🧠 Focused on automation, productivity & financial independence  
 
-Here are some ideas to get you started:
+I'm currently learning Data Science with Python and preparing to freelance in AI automation.  
+Open to learning, building, and contributing to real-world projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📍 Based in Portugal  
+📫 Reach me: rubenmatthewsdev@gmail.com
